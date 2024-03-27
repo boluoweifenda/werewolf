@@ -1,0 +1,1495 @@
+{
+  "judge": [
+    [
+      "00:00:03",
+      "Day 1,Night - Judge - Players, please confirm your identities."
+    ],
+    [
+      "00:00:03",
+      "Day 1,Night - Judge - Due to the high number of spectators in this room, it is considered a popular room and recommended for top placement in the spectator list"
+    ],
+    [
+      "00:00:03",
+      "Day 1,Night - Judge - Night has fallen, players in the open-eyes camp please start taking action"
+    ],
+    [
+      "00:00:58",
+      "Day 1,Daytime - Judge - Due to the high number of spectators in this room, it is considered a popular room and recommended for top placement in the spectator list"
+    ],
+    [
+      "00:00:58",
+      "Day 1,Daytime - Judge - Night has fallen, players in the open-eyes camp please start taking action"
+    ],
+    [
+      "00:00:58",
+      "Day 1,Daytime - Judge - Daybreak has come"
+    ],
+    [
+      "00:01:04",
+      "Day 1,Daytime - Judge - Last night was a peaceful night."
+    ],
+    [
+      "00:01:04",
+      "Day 1,Daytime - Judge - Starting from [random][4], speeches begin"
+    ],
+    [
+      "00:25:32",
+      "Day 1,Daytime - Judge - [9] was voted out"
+    ],
+    [
+      "00:25:32",
+      "Day 1,Daytime - Judge - Starting from [9], please give the last words"
+    ],
+    [
+      "00:28:09",
+      "Day 2,Night - Judge - Night has fallen, players in the open-eyes camp please start taking action"
+    ],
+    [
+      "00:29:04",
+      "Day 2,Daytime - Judge - Night has fallen, players in the open-eyes camp please start taking action"
+    ],
+    [
+      "00:29:04",
+      "Day 2,Daytime - Judge - Daybreak has come"
+    ],
+    [
+      "00:29:10",
+      "Day 2,Daytime - Judge - Those who died last night are [3][8]"
+    ],
+    [
+      "00:29:10",
+      "Day 2,Daytime - Judge - Starting from [left dead][7], speeches begin"
+    ],
+    [
+      "00:42:43",
+      "Day 2,Daytime - Judge - [7] was voted out"
+    ],
+    [
+      "00:42:43",
+      "Day 2,Daytime - Judge - Starting from [7], please give the last words"
+    ],
+    [
+      "00:45:47",
+      "Day 3,Night - Judge - Starting from [7], please give the last words"
+    ],
+    [
+      "00:45:47",
+      "Day 3,Night - Judge - Night has fallen, players in the open-eyes camp please start taking action"
+    ],
+    [
+      "00:46:42",
+      "Day 3,Daytime - Judge - Night has fallen, players in the open-eyes camp please start taking action"
+    ],
+    [
+      "00:46:42",
+      "Day 3,Daytime - Judge - Daybreak has come"
+    ],
+    [
+      "00:46:47",
+      "Day 3,Daytime - Judge - Those who died last night are [2]"
+    ],
+    [
+      "00:46:47",
+      "Day 3,Daytime - Judge - Starting from [right dead][4], speeches begin"
+    ],
+    [
+      "00:54:28",
+      "Day 3,Daytime - Judge - This round is a tie, [1] [4] [5] [6] speak to duel (PK)"
+    ],
+    [
+      "00:54:28",
+      "Day 3,Daytime - Judge - Starting from [random][1], speeches begin"
+    ],
+    [
+      "01:01:56",
+      "Day 4,Night - Judge - 本次公投没有人被票死"
+    ],
+    [
+      "01:01:56",
+      "Day 4,Night - Judge - Night has fallen, players in the open-eyes camp please start taking action"
+    ],
+    [
+      "01:02:51",
+      "Day 4,Daytime - Judge - Daybreak has come"
+    ],
+    [
+      "01:02:57",
+      "Day 4,Daytime - Judge - Last night was a peaceful night."
+    ],
+    [
+      "01:02:57",
+      "Day 4,Daytime - Judge - Starting from [random][4], speeches begin"
+    ],
+    [
+      "01:09:33",
+      "Day 4,Daytime - Judge - This round is a tie, speakers for the PK are [5] [6]."
+    ],
+    [
+      "01:09:33",
+      "Day 4,Daytime - Judge - Starting from [random][5], speeches begin"
+    ],
+    [
+      "01:10:07",
+      "Game Preparation - Judge - [1] Villiage (Survived)\n[2] Witch (Killed by Werewolves)\n[3] Werewolf (Killed by Poison)\n[4] Villiage (Survived)\n[5] Werewolf (Voted Out)\n[6] Hunter (Survived)\n[7] Seer (Voted Out)\n[8] Villiage (Killed by Werewolves)\n[9] Werewolf (Voted Out)"
+    ],
+    [
+      "01:10:07",
+      "Game Preparation - Judge - Congratulations to the following players for their achievements! \n[7ee1b562baf20750d3e82b7e]: Divine Witch,666\n[3b40879310aefec354eaf2a7]: Pond Owner"
+    ],
+    [
+      "01:10:08",
+      "End - Judge - [1] Villiage (Survived)\n[2] Witch (Killed by Werewolves)\n[3] Werewolf (Killed by Poison)\n[4] Villiage (Survived)\n[5] Werewolf (Voted Out)\n[6] Hunter (Survived)\n[7] Seer (Voted Out)\n[8] Villiage (Killed by Werewolves)\n[9] Werewolf (Voted Out)"
+    ],
+    [
+      "01:10:08",
+      "End - Judge - Congratulations to the following players for their achievements! \n[7ee1b562baf20750d3e82b7e]: Divine Witch,666\n[3b40879310aefec354eaf2a7]: Pond Owner"
+    ],
+    [
+      "01:10:22",
+      "End - Judge - Day 1 Night\nSeer: Checked [3]\nWerewolves: Killed[4]\nWitch: Used antidote on [4]\n\nDay 1 Daytime\nDeath Message: Peaceful Night\nVoting Pattern: [3][5][6][9] voted for [7]\n[1][2][4][7][8] voted for [9]\nVoting Result: [9] was voted out\n\nDay 2 Night\nSeer: Checked [6]\nWerewolves: Killed[8]\nWitch : Killed by Poison [3]\n\nDay 2 Daytime\nDeath Message : [3][8] died\nVoting Pattern: [7] voted for [1]\n[2] voted for [5]\n[1][4][5][6] voted for [7]\nVoting Result: [7] was voted out\n\nDay 4 Daytime\nWerewolves: Killed[2]\n\nDay 3 Daytime\nDeath Message: [2] died\nVoting Pattern: [6] voted for [1]\n[1] voted for [4]\n[4] voted for [5]\n[5] voted for [6]\nVoting Pattern for PK: \nVoting Result: 本轮无人出局\n\nFourth Night\nWerewolf : No action taken\n\nFourth Day\nDeath Message: Peaceful Night\nVoting Pattern: [4] voted for [5]\n[1] voted for [6]\n[5][6] Abstain from voting\nVoting Pattern for PK: [4] voted for [5]\n[1] Abstain from voting\nVoting Result: [5] was voted out\n\nGame Result\nResult : The good side wins\n\nIssue with this game session??\nClick here to report feedback"
+    ]
+  ],
+  "task": [
+    [
+      "00:00:03",
+      "Day 1, Night",
+      "Night falls, actions begin"
+    ],
+    [
+      "00:00:04",
+      "Day 1, Night",
+      "Werewolves, Seer are taking action"
+    ],
+    [
+      "00:00:37",
+      "Day 1, Night",
+      "Witch is taking action"
+    ],
+    [
+      "00:00:53",
+      "Day 1, Night",
+      "Actions end, waiting for dawn"
+    ],
+    [
+      "00:00:58",
+      "Day 1, Daytime",
+      "Daybreak has come"
+    ],
+    [
+      "00:01:02",
+      "Day 1, Daytime",
+      "Popup: Death status"
+    ],
+    [
+      "00:01:04",
+      "Day 1, Daytime",
+      "[4] is preparing to speak"
+    ],
+    [
+      "00:01:09",
+      "Day 1, Daytime",
+      "[4] is speaking"
+    ],
+    [
+      "00:03:49",
+      "Day 1, Daytime",
+      "[5] is speaking"
+    ],
+    [
+      "00:06:48",
+      "Day 1, Daytime",
+      "[6] is speaking"
+    ],
+    [
+      "00:08:20",
+      "Day 1, Daytime",
+      "[7] is speaking"
+    ],
+    [
+      "00:11:20",
+      "Day 1, Daytime",
+      "[8] is speaking"
+    ],
+    [
+      "00:13:27",
+      "Day 1, Daytime",
+      "[9] is speaking"
+    ],
+    [
+      "00:16:20",
+      "Day 1, Daytime",
+      "[1] is speaking"
+    ],
+    [
+      "00:19:20",
+      "Day 1, Daytime",
+      "[2] is speaking"
+    ],
+    [
+      "00:22:19",
+      "Day 1, Daytime",
+      "[3] is speaking"
+    ],
+    [
+      "00:25:18",
+      "Day 1, Daytime",
+      "Start voting"
+    ],
+    [
+      "00:25:29",
+      "Day 1, Daytime",
+      "Popup: Death status"
+    ],
+    [
+      "00:25:32",
+      "Day 1, Daytime",
+      "[9] is preparing to give the last words"
+    ],
+    [
+      "00:25:37",
+      "Day 1, Daytime",
+      "[9] gives the last words"
+    ],
+    [
+      "00:28:08",
+      "Day 2, Night",
+      "Night falls, actions begin"
+    ],
+    [
+      "00:28:10",
+      "Day 2, Night",
+      "Werewolves, Seer are taking action"
+    ],
+    [
+      "00:28:43",
+      "Day 2, Night",
+      "Witch is taking action"
+    ],
+    [
+      "00:28:58",
+      "Day 2, Night",
+      "Actions end, waiting for dawn"
+    ],
+    [
+      "00:29:04",
+      "Day 2, Daytime",
+      "Daybreak has come"
+    ],
+    [
+      "00:29:06",
+      "Day 2, Daytime",
+      "Popup: Death status"
+    ],
+    [
+      "00:29:09",
+      "Day 2, Daytime",
+      "[7] is preparing to speak"
+    ],
+    [
+      "00:29:14",
+      "Day 2, Daytime",
+      "[7] is speaking"
+    ],
+    [
+      "00:30:34",
+      "Day 2, Daytime",
+      "[6] is speaking"
+    ],
+    [
+      "00:33:23",
+      "Day 2, Daytime",
+      "[5] is speaking"
+    ],
+    [
+      "00:36:15",
+      "Day 2, Daytime",
+      "[4] is speaking"
+    ],
+    [
+      "00:36:54",
+      "Day 2, Daytime",
+      "[2] is speaking"
+    ],
+    [
+      "00:39:53",
+      "Day 2, Daytime",
+      "[1] is speaking"
+    ],
+    [
+      "00:42:27",
+      "Day 2, Daytime",
+      "Start voting"
+    ],
+    [
+      "00:42:38",
+      "Day 2, Daytime",
+      "Popup: Death status"
+    ],
+    [
+      "00:42:43",
+      "Day 2, Daytime",
+      "[7] is preparing to give the last words"
+    ],
+    [
+      "00:42:47",
+      "Day 2, Daytime",
+      "[7] gives the last words"
+    ],
+    [
+      "00:45:46",
+      "Day 3, Night",
+      "Werewolves, Seer are taking action"
+    ],
+    [
+      "00:46:23",
+      "Day 3, Night",
+      "Witch is taking action"
+    ],
+    [
+      "00:46:36",
+      "Day 3, Night",
+      "Actions end, waiting for dawn"
+    ],
+    [
+      "00:46:41",
+      "Day 3, Daytime",
+      "Daybreak has come"
+    ],
+    [
+      "00:46:44",
+      "Day 3, Daytime",
+      "Popup: Death status"
+    ],
+    [
+      "00:46:47",
+      "Day 3, Daytime",
+      "[4] is preparing to speak"
+    ],
+    [
+      "00:46:53",
+      "Day 3, Daytime",
+      "[4] is speaking"
+    ],
+    [
+      "00:47:10",
+      "Day 3, Daytime",
+      "[5] is speaking"
+    ],
+    [
+      "00:49:59",
+      "Day 3, Daytime",
+      "[6] is speaking"
+    ],
+    [
+      "00:51:18",
+      "Day 3, Daytime",
+      "[1] is speaking"
+    ],
+    [
+      "00:54:17",
+      "Day 3, Daytime",
+      "Start voting"
+    ],
+    [
+      "00:54:28",
+      "Day 3, Daytime",
+      "[1] is preparing to speak"
+    ],
+    [
+      "00:54:33",
+      "Day 3, Daytime",
+      "[1] is speaking"
+    ],
+    [
+      "00:55:27",
+      "Day 3, Daytime",
+      "[4] is speaking"
+    ],
+    [
+      "00:57:23",
+      "Day 3, Daytime",
+      "[5] is speaking"
+    ],
+    [
+      "00:59:12",
+      "Day 3, Daytime",
+      "[6] is speaking"
+    ],
+    [
+      "01:01:39",
+      "Day 3, Daytime",
+      "Tie vote PK"
+    ],
+    [
+      "01:01:55",
+      "Day 4, Night",
+      "Night falls, actions begin"
+    ],
+    [
+      "01:01:57",
+      "Day 4, Night",
+      "Werewolves, Seer are taking action"
+    ],
+    [
+      "01:02:30",
+      "Day 4, Night",
+      "Witch is taking action"
+    ],
+    [
+      "01:02:46",
+      "Day 4, Night",
+      "Actions end, waiting for dawn"
+    ],
+    [
+      "01:02:51",
+      "Day 4, Daytime",
+      "Daybreak has come"
+    ],
+    [
+      "01:02:53",
+      "Day 4, Daytime",
+      "Popup: Death status"
+    ],
+    [
+      "01:02:56",
+      "Day 4, Daytime",
+      "[4] is preparing to speak"
+    ],
+    [
+      "01:03:02",
+      "Day 4, Daytime",
+      "[4] is speaking"
+    ],
+    [
+      "01:03:32",
+      "Day 4, Daytime",
+      "[5] is speaking"
+    ],
+    [
+      "01:06:20",
+      "Day 4, Daytime",
+      "[6] is speaking"
+    ],
+    [
+      "01:06:45",
+      "Day 4, Daytime",
+      "[1] is speaking"
+    ],
+    [
+      "01:09:16",
+      "Day 4, Daytime",
+      "Start voting"
+    ],
+    [
+      "01:09:27",
+      "Day 4, Daytime",
+      "[5] is preparing to speak"
+    ],
+    [
+      "01:09:33",
+      "Day 4, Daytime",
+      "[5] is speaking"
+    ],
+    [
+      "01:09:36",
+      "Day 4, Daytime",
+      "[6] is speaking"
+    ],
+    [
+      "01:09:53",
+      "Day 4, Daytime",
+      "Tie vote PK"
+    ],
+    [
+      "01:10:03",
+      "Day 4, Daytime",
+      "Popup: Death status"
+    ],
+    [
+      "01:10:06",
+      "Game preparation",
+      "Do not leave, the game is about to start"
+    ]
+  ],
+  "game_state": {
+    "roles": {
+      "1": "Villager",
+      "2": "Witch",
+      "3": "Werewolf",
+      "4": "Villager",
+      "5": "Werewolf",
+      "6": "Hunter",
+      "7": "Seer",
+      "8": "Villager",
+      "9": "Werewolf"
+    },
+    "final": {
+      "1": "in_game",
+      "2": "killed",
+      "3": "poisoned",
+      "4": "in_game",
+      "5": "exiled",
+      "6": "in_game",
+      "7": "exiled",
+      "8": "killed",
+      "9": "exiled"
+    },
+    "Day 1 Night": {
+      "Seer": 3,
+      "Werewolf": 4,
+      "Witch antidote": 4,
+      "Death Message": []
+    },
+    "Day 1 Daytime": {
+      "Voting Pattern": {
+        "1": 9,
+        "2": 9,
+        "3": 7,
+        "4": 9,
+        "5": 7,
+        "6": 7,
+        "7": 9,
+        "8": 9,
+        "9": 7
+      },
+      "Voting Result": 9
+    },
+    "Day 2 Night": {
+      "Seer": 6,
+      "Werewolf": 8,
+      "Witch poison": 3,
+      "Death Message": [
+        3,
+        8
+      ]
+    },
+    "Day 2 Daytime": {
+      "Voting Pattern": {
+        "1": 7,
+        "2": 5,
+        "4": 7,
+        "5": 7,
+        "6": 7,
+        "7": 1
+      },
+      "Voting Result": 7
+    },
+    "Day 3 Night": {
+      "Werewolf": 2,
+      "Death Message": [
+        2
+      ]
+    },
+    "Day 3 Daytime": {
+      "Voting Pattern": {
+        "1": 4,
+        "4": 5,
+        "5": 6,
+        "6": 1
+      },
+      "Voting Result": -1
+    },
+    "Day 4 Night": {
+      "Werewolf": -1,
+      "Death Message": []
+    },
+    "Day 4 Daytime": {
+      "Voting Pattern": {
+        "1": 6,
+        "4": 5,
+        "5": -1,
+        "6": -1
+      },
+      "Voting Pattern (Round 2)": {
+        "1": -1,
+        "4": 5
+      },
+      "Voting Result": 5
+    },
+    "Game Result": "The good side wins",
+    "Automatically Passed for Not Speaking": [],
+    "player_id": []
+  },
+  "task_time": {
+    "Day 1 Night - Witch is taking action": [
+      37,
+      53
+    ],
+    "Day 1 Night - Actions end, waiting for dawn": [
+      53,
+      58
+    ],
+    "Day 1 Daytime - Daybreak has come": [
+      58,
+      62
+    ],
+    "Day 1 Daytime - Announce the night's messages": [
+      62,
+      64
+    ],
+    "Day 1 Daytime - [4] is preparing to speak": [
+      64,
+      69
+    ],
+    "Day 1 Daytime - [4] is speaking": [
+      69,
+      229
+    ],
+    "Day 1 Daytime - [5] is speaking": [
+      229,
+      408
+    ],
+    "Day 1 Daytime - [6] is speaking": [
+      408,
+      500
+    ],
+    "Day 1 Daytime - [7] is speaking": [
+      500,
+      680
+    ],
+    "Day 1 Daytime - [8] is speaking": [
+      680,
+      807
+    ],
+    "Day 1 Daytime - [9] is speaking": [
+      807,
+      980
+    ],
+    "Day 1 Daytime - [1] is speaking": [
+      980,
+      1160
+    ],
+    "Day 1 Daytime - [2] is speaking": [
+      1160,
+      1339
+    ],
+    "Day 1 Daytime - [3] is speaking": [
+      1339,
+      1518
+    ],
+    "Day 1 Daytime - Start voting": [
+      1518,
+      1529
+    ],
+    "Day 1 Daytime - Announce voting results": [
+      1529,
+      1532
+    ],
+    "Day 1 Daytime - [9] is preparing to give the last words": [
+      1532,
+      1537
+    ],
+    "Day 1 Daytime - [9] gives the last words": [
+      1537,
+      1688
+    ],
+    "Day 2 Night - Night falls, actions begin": [
+      1688,
+      1690
+    ],
+    "Day 2 Night - Werewolf and Seer are taking action": [
+      1690,
+      1723
+    ],
+    "Day 2 Night - Witch is taking action": [
+      1723,
+      1738
+    ],
+    "Day 2 Night - Actions end, waiting for dawn": [
+      1738,
+      1744
+    ],
+    "Day 2 Daytime - Daybreak has come": [
+      1744,
+      1746
+    ],
+    "Day 2 Daytime - Announce the night's messages": [
+      1746,
+      1749
+    ],
+    "Day 2 Daytime - [7] is preparing to speak": [
+      1749,
+      1754
+    ],
+    "Day 2 Daytime - [7] is speaking": [
+      1754,
+      1834
+    ],
+    "Day 2 Daytime - [6] is speaking": [
+      1834,
+      2003
+    ],
+    "Day 2 Daytime - [5] is speaking": [
+      2003,
+      2175
+    ],
+    "Day 2 Daytime - [4] is speaking": [
+      2175,
+      2214
+    ],
+    "Day 2 Daytime - [2] is speaking": [
+      2214,
+      2393
+    ],
+    "Day 2 Daytime - [1] is speaking": [
+      2393,
+      2547
+    ],
+    "Day 2 Daytime - Start voting": [
+      2547,
+      2558
+    ],
+    "Day 2 Daytime - Announce voting results": [
+      2558,
+      2563
+    ],
+    "Day 2 Daytime - [7] is preparing to give the last words": [
+      2563,
+      2567
+    ],
+    "Day 2 Daytime - [7] gives the last words": [
+      2567,
+      2746
+    ],
+    "Day 3 Night - Werewolf and Seer are taking action": [
+      2746,
+      2783
+    ],
+    "Day 3 Night - Witch is taking action": [
+      2783,
+      2796
+    ],
+    "Day 3 Night - Actions end, waiting for dawn": [
+      2796,
+      2801
+    ],
+    "Day 3 Daytime - Daybreak has come": [
+      2801,
+      2804
+    ],
+    "Day 3 Daytime - Announce the night's messages": [
+      2804,
+      2807
+    ],
+    "Day 3 Daytime - [4] is preparing to speak": [
+      2807,
+      2813
+    ],
+    "Day 3 Daytime - [4] is speaking": [
+      2813,
+      2830
+    ],
+    "Day 3 Daytime - [5] is speaking": [
+      2830,
+      2999
+    ],
+    "Day 3 Daytime - [6] is speaking": [
+      2999,
+      3078
+    ],
+    "Day 3 Daytime - [1] is speaking": [
+      3078,
+      3257
+    ],
+    "Day 3 Daytime - Start voting": [
+      3257,
+      3268
+    ],
+    "Day 3 Daytime - [1] is preparing to speak": [
+      3268,
+      3273
+    ],
+    "Day 3 Daytime - [1] is speaking(Round 2)": [
+      3273,
+      3327
+    ],
+    "Day 3 Daytime - [4] is speaking(Round 2)": [
+      3327,
+      3443
+    ],
+    "Day 3 Daytime - [5] is speaking(Round 2)": [
+      3443,
+      3552
+    ],
+    "Day 3 Daytime - [6] is speaking(Round 2)": [
+      3552,
+      3699
+    ],
+    "Day 3 Daytime - Tie vote": [
+      3699,
+      3715
+    ],
+    "Day 4 Night - Night falls, actions begin": [
+      3715,
+      3717
+    ],
+    "Day 4 Night - Werewolf and Seer are taking action": [
+      3717,
+      3750
+    ],
+    "Day 4 Night - Witch is taking action": [
+      3750,
+      3766
+    ],
+    "Day 4 Night - Actions end, waiting for dawn": [
+      3766,
+      3771
+    ],
+    "Day 4 Daytime - Daybreak has come": [
+      3771,
+      3773
+    ],
+    "Day 4 Daytime - Announce the night's messages": [
+      3773,
+      3776
+    ],
+    "Day 4 Daytime - [4] is preparing to speak": [
+      3776,
+      3782
+    ],
+    "Day 4 Daytime - [4] is speaking": [
+      3782,
+      3812
+    ],
+    "Day 4 Daytime - [5] is speaking": [
+      3812,
+      3980
+    ],
+    "Day 4 Daytime - [6] is speaking": [
+      3980,
+      4005
+    ],
+    "Day 4 Daytime - [1] is speaking": [
+      4005,
+      4156
+    ],
+    "Day 4 Daytime - Start voting": [
+      4156,
+      4167
+    ],
+    "Day 4 Daytime - [5] is preparing to speak": [
+      4167,
+      4173
+    ],
+    "Day 4 Daytime - [5] is speaking(Round 2)": [
+      4173,
+      4176
+    ],
+    "Day 4 Daytime - [6] is speaking(Round 2)": [
+      4176,
+      4193
+    ],
+    "Day 4 Daytime - Tie vote": [
+      4193,
+      4203
+    ],
+    "Day 4 Daytime - Announce voting results": [
+      4203,
+      4206
+    ],
+    "Game is preparing - Do not leave, the game is about to start": [
+      4206,
+      -1
+    ]
+  },
+  "time_fine": {
+    "Day 1 Daytime - [4] is speaking": [
+      [
+        66.3,
+        0,
+        0
+      ],
+      [
+        226.4,
+        0,
+        0
+      ]
+    ],
+    "Day 1 Daytime - [5] is speaking": [
+      [
+        226.4,
+        0,
+        0
+      ],
+      [
+        405.4,
+        0,
+        0
+      ]
+    ],
+    "Day 1 Daytime - [6] is speaking": [
+      [
+        405.4,
+        0,
+        0
+      ],
+      [
+        498.2,
+        0,
+        0
+      ]
+    ],
+    "Day 1 Daytime - [7] is speaking": [
+      [
+        498.2,
+        0,
+        0
+      ],
+      [
+        677.8,
+        0,
+        0
+      ]
+    ],
+    "Day 1 Daytime - [8] is speaking": [
+      [
+        677.8,
+        0,
+        0
+      ],
+      [
+        805.1,
+        0,
+        0
+      ]
+    ],
+    "Day 1 Daytime - [9] is speaking": [
+      [
+        805.1,
+        0,
+        0
+      ],
+      [
+        976.9,
+        0,
+        0
+      ]
+    ],
+    "Day 1 Daytime - [1] is speaking": [
+      [
+        976.9,
+        0,
+        0
+      ],
+      [
+        1156.9,
+        0,
+        0
+      ]
+    ],
+    "Day 1 Daytime - [2] is speaking": [
+      [
+        1156.9,
+        0,
+        0
+      ],
+      [
+        1336.5,
+        0,
+        0
+      ]
+    ],
+    "Day 1 Daytime - [3] is speaking": [
+      [
+        1336.5,
+        0,
+        0
+      ],
+      [
+        1515.6,
+        0,
+        0
+      ]
+    ],
+    "Day 1 Daytime - [9] gives the last words": [
+      [
+        1534.6,
+        0,
+        0
+      ],
+      [
+        1684.1,
+        0,
+        0
+      ]
+    ],
+    "Day 2 Daytime - [7] is speaking": [
+      [
+        1752.1,
+        0,
+        0
+      ],
+      [
+        1831.4,
+        0,
+        0
+      ]
+    ],
+    "Day 2 Daytime - [6] is speaking": [
+      [
+        1831.4,
+        0,
+        0
+      ],
+      [
+        1999.1,
+        0,
+        0
+      ]
+    ],
+    "Day 2 Daytime - [5] is speaking": [
+      [
+        1999.1,
+        0,
+        0
+      ],
+      [
+        2172.9,
+        0,
+        0
+      ]
+    ],
+    "Day 2 Daytime - [4] is speaking": [
+      [
+        2172.9,
+        0,
+        0
+      ],
+      [
+        2211.5,
+        0,
+        0
+      ]
+    ],
+    "Day 2 Daytime - [2] is speaking": [
+      [
+        2211.5,
+        0,
+        0
+      ],
+      [
+        2390.8,
+        0,
+        0
+      ]
+    ],
+    "Day 2 Daytime - [1] is speaking": [
+      [
+        2390.8,
+        0,
+        0
+      ],
+      [
+        2544.9,
+        0,
+        0
+      ]
+    ],
+    "Day 2 Daytime - [7] gives the last words": [
+      [
+        2563.9,
+        0,
+        0
+      ],
+      [
+        2741.6,
+        0,
+        0
+      ]
+    ],
+    "Day 3 Daytime - [4] is speaking": [
+      [
+        2809.6,
+        0,
+        0
+      ],
+      [
+        2828.2,
+        0,
+        0
+      ]
+    ],
+    "Day 3 Daytime - [5] is speaking": [
+      [
+        2828.2,
+        0,
+        0
+      ],
+      [
+        2996.5,
+        0,
+        0
+      ]
+    ],
+    "Day 3 Daytime - [6] is speaking": [
+      [
+        2996.5,
+        0,
+        0
+      ],
+      [
+        3074.8,
+        0,
+        0
+      ]
+    ],
+    "Day 3 Daytime - [1] is speaking": [
+      [
+        3074.8,
+        0,
+        0
+      ],
+      [
+        3254.9,
+        0,
+        0
+      ]
+    ],
+    "Day 3 Daytime - [1] is speaking(Round 2)": [
+      [
+        3270.8,
+        0,
+        0
+      ],
+      [
+        3325.0,
+        0,
+        0
+      ]
+    ],
+    "Day 3 Daytime - [4] is speaking(Round 2)": [
+      [
+        3325.0,
+        0,
+        0
+      ],
+      [
+        3439.1,
+        0,
+        0
+      ]
+    ],
+    "Day 3 Daytime - [5] is speaking(Round 2)": [
+      [
+        3439.1,
+        0,
+        0
+      ],
+      [
+        3550.2,
+        0,
+        0
+      ]
+    ],
+    "Day 3 Daytime - [6] is speaking(Round 2)": [
+      [
+        3550.2,
+        0,
+        0
+      ],
+      [
+        3696.8,
+        0,
+        0
+      ]
+    ],
+    "Day 4 Daytime - [4] is speaking": [
+      [
+        3778.8,
+        0,
+        0
+      ],
+      [
+        3808.3,
+        0,
+        0
+      ]
+    ],
+    "Day 4 Daytime - [5] is speaking": [
+      [
+        3808.3,
+        0,
+        0
+      ],
+      [
+        3977.5,
+        0,
+        0
+      ]
+    ],
+    "Day 4 Daytime - [6] is speaking": [
+      [
+        3977.5,
+        0,
+        0
+      ],
+      [
+        4002.3,
+        0,
+        0
+      ]
+    ],
+    "Day 4 Daytime - [1] is speaking": [
+      [
+        4002.3,
+        0,
+        0
+      ],
+      [
+        4154.3,
+        0,
+        0
+      ]
+    ],
+    "Day 4 Daytime - [5] is speaking(Round 2)": [
+      [
+        4170.3,
+        1,
+        0
+      ],
+      [
+        4173.0,
+        0,
+        0
+      ]
+    ],
+    "Day 4 Daytime - [6] is speaking(Round 2)": [
+      [
+        4173.0,
+        0,
+        0
+      ],
+      [
+        4188.5,
+        0,
+        0
+      ]
+    ]
+  },
+  "audio": {
+    "Day 1 Daytime - [4] is speaking": {
+      "duration": 160.1,
+      "rms": 0.058031,
+      "text": "五，你知道吗？一当我看到我第一个发言的时候，我心里就有一种什么感觉。就是开局前我从放出豪言，就你们的狗屁逻辑在我这里一打就死就打死的那个时候，你知道吗？很奇怪，你知道吗？我就补足了劲，我看到底牌的时候，我就补足了劲，我说让我听听你们的逻辑，在在我的眼里是什么？结果我是第一个发言，那就没办法了，我底牌是个白牌啊，我第一第一第一个麦发言，我就表水了。七，我我那个表水出来，你你这样吧，我那个表水如果出来之后，我都想过了，我都想过结局了。那个那个四是个表水狼，那个四是个表水狼，今天就票四票四，我我最少吃八票，这还是我不票自己的情况，不是持有异议，那就聊点干货吧。我底牌是好人，不是狼。那个我第一天找预言家，这场次上找预言家应该不难。只要你视角不是太炸，你发言再拉都行，只要视角上不炸就行。首先说明我是看视角，结合发言视角在低位。那高置位的预言家牌怎么开视角，你跟第二个对比啊，对不对？第第二个开的好就票，第一个第一个第一个第二个开的差就票，票点儿不一样，总归他都有个结合的。哎，当你们找不着狼的时候，我就告诉你你票谁啊，你就票这个五这个五就能找狼。当你当你不知道找不到狼的时候，就把五票掉，他就能找到三张狼，他找狼的方法特别牛逼。",
+      "summary": "四号玩家底牌是好人，找预言家不难。他认为视角在低位的预言家牌更可信。他建议票五号玩家来找狼。",
+      "format": "{\n    \"身份类型\":{\"好人\":[4],\"预言家\":[unknown],\"狼人\":[5]}, \n    \"动作类型\":{\"归票\":[unknown->5]}\n}"
+    },
+    "Day 1 Daytime - [5] is speaking": {
+      "duration": 179.0,
+      "rms": 0.085693,
+      "text": "前提是他得是个好人，经过了我的一杆进展，你捧杀我有啥意义呢？我也是个好人，但是你前半部分聊天是个狼人，后面自己慢慢慢把自己聊成一个好人，为啥这样讲啊？他前半部发言是带攻击性的，为啥说他是个好人，用他的言语表达出来就是好人，但他是略带攻击性的。你这个东西你得跑，你得跑着开，他带攻击性的。因为闭眼视角一一般一般的正常玩是没有攻击性的。你试问试问一下在场的人，就咱们九个人当中，你第一天是闭眼视角。你会无缘无故去扣任何隐狼人是狼吗？你都扣不了，你连别人逻辑就是哪怕你们打的是逻辑，打到是发言，你们都抠不出任何一张。但是往往有的人第一个发言，他会略带攻击性。这个攻击性就是狼人就是闭眼视角好人就一定没有攻击性，哪怕是好人或者第二大好人，他是没有攻击性的，因为他没有攻击性的目标，没有攻击性的目标，他就是一个白牌，他可以打错，但是打错了点没有那么致命。没有致命点，知道吧？所以说你这个把四放了吧，或把四放了，你后座加三刀就行了。它的致命点一定是跟你逻辑，就是跟你盘的东西是就是一定相符的。当一张狼人想要打一张好人的时候，你听完第一张白牌或者第二张白牌，他一定是跟你的打人逻辑是不相符的。狼人是一定根据视角去打你，他不会说凭你口头发言去打你，你们要把这个东西学到的，你们去外置位打，把把是好人，但狼人就有一个弊病。狼人只能从你发言里面去打，但是他吃不了信。狼人是吃不了信息的，知道吧？这是我是想把色放的点狼人是不吃那个信息的狼人要生存，他就一定会打，你知道吧？这个是我是个好人。",
+      "summary": "五号玩家说狼人会略带攻击性，好人不会。狼人会根据视角打人，而好人会根据逻辑打人。狼人不吃信息，要生存就会打。",
+      "format": "{\n    \"身份类型\":{\"狼人\":[], \"好人\":[]}, \n    \"动作类型\":{\"无结果\":[]}\n}"
+    },
+    "Day 1 Daytime - [6] is speaking": {
+      "duration": 92.8,
+      "rms": 0.099491,
+      "text": "我把四放了啊。二，我我是没听懂这个巫的发言，好吧，我真没听懂男人怎么去抗推，你都晓得狼人怎么去狼人，怎么去打好人，你都晓得我去你聊的，你你你聊的话，深得狼心好吧，死不了跳舞啊。因为我不敢去打这个四，因为我不敢去打这个四，这个四的发言，就就听杀，你知道吧？四、告诉你说我的表水出来的话，我要我要吃八票，因为都会打。我是表水狼，我去你不聊出这个，我压根就没想过去打你，真的，你随便你怎么表，只要你不在这地方跳大狼钢铁聊爆，第一张牌要聊爆也很难。我告诉你是不是刚刚聊出我要吃八票的时候，我真的二八哥，我鸦哥都没想过要去票了，杀你。但当这个五对你的反应五不去锤你的时候，我就锤这个五好不好？",
+      "summary": "六号放了四号，不敢打四号。听不懂巫的发言。不想打二号，因为他聊得深得狼心。四号说他是表水狼，要吃八票。六号不想打五号，但五号不锤四号，六号就锤了五号。",
+      "format": "{\n    \"身份类型\":{\"狼人\":[4],\"表水狼\":[5]}, \n    \"动作类型\":{\"归票\":[unknown->8]}\n}"
+    },
+    "Day 1 Daytime - [7] is speaking": {
+      "duration": 179.6,
+      "rms": 0.15611,
+      "text": "一起跳舞五六金五六的局跳三啊，不对的，就先把三票死你们爱你。你们爱之后，我死了之后，你们爱解决爱怎么去打，怎么去打，我在场上就先票三啊，因为我验的三底牌一定是狼人，你打五，你只能是五，大概率是狼人过了吧。那个四发言的时候，我在想，那麦需要如果三从三走就特别完美啊。那个三如果不跳后置位，我只需要只需要根据别人对这个前置的评价，我可能就大概率，那狼坑才可能会锁得更死一点。懂了吧？但是呢麦信从五走，麦序从五斗，那你们看着那个五那个三元的干拔了啊，你们要捞，你们去捞啊，要捞更好。前置位六十狼为什么扣哥底牌是好人听？五是狼一定不会跟五上pk，好吧，拿什么跟我上pk那个巫，因为你的发言你的发言是四底牌是狼人，你觉得四底牌是狼人，五要保四，你打五，你打五，你打五是定狼。那哎呦，等一下啊，我朋友打个招呼就不高了，你一高人倒钩刀路出现了，一号拐了，一号拐了，我说哪儿了啊？你是打四是狼，你认为五句放四，所以你要拉五上pk，那那四还是不是狼？那五有可能是好人保错了四是吧？你所以你就所以你这个逻辑递出来，你只能是狼人，好吧，我验三其实心路历程就是上把我听三，一定是钢铁好人，对吧？那保七都保到土里了，哼哼那巴不得八真的，我觉得我上把的发言没多好，那个三d出来那个六拿我钓鱼，我知道，但是外置的牌可能不太知道，好吧？所以我认为三是钢铁好人，当我开当我底牌是个预言家的时候，我毫不犹豫就验一如三好吧。但是他底牌是狼人没有了啊，前置位定义也聊了啊，先票三，你们你们想只要我在场上就先票三，好吧，我对。",
+      "summary": "七号验三底牌一定是狼人，建议先票三。五是狼不会跟五上pk，巫说四底牌是狼，打五是定狼。三是钢铁好人，建议先票三。",
+      "format": "{\n    \"身份类型\":{\"预言家\":[7],\"狼人\":[3,5],\"女巫\":[4],\"钢铁\":[3]}, \n    \"动作类型\":{\"归票\":[unknown->3],\"定狼\":[unknown->5]}\n}"
+    },
+    "Day 1 Daytime - [8] is speaking": {
+      "duration": 127.3,
+      "rms": 0.077043,
+      "text": "想票谁票谁啊？我过了还行啊，七号玩家聊的还行，前置位的视角一定是七号。玩家视角是很正的，去评价四五六三张牌子的发言。六的视角听掉。四号玩家是钢铁听杀，五号玩家可能保错。四号玩家平和六号玩家去拉五号玩家上pk，而不是拉这张。四号玩家那六号玩家的视角能出现这种偏差的话，那四六号玩家的底牌可能形成狼人牌，好吧？四号玩家的不好点，就是说自己逻辑很强，抓狼感十足。到最后他第一个发言，他跟你聊的都是狼坑，你的代入视角都是一张狼人牌代入视角，凭何说是让好人去认掉你的底牌是张好人啊，好吗？五号玩家其实对四号玩家没有杀心，说四号玩家前边聊的像狼后边越聊越回去。其实按道理说，五号玩家是有好人面的，但六号玩家不考虑，就钢铁王后是跟五号玩家拉掉pk，哼即告诉你三十个查杀验三的心理路程，以及对前置位的评价。我觉得七号玩家有预言家牌的视角也有玩后，今天要弄死三的决心。嗯，他说了一句话，反正今天我在场就是票三的局，哪怕票死我之后呢，你们再自己看谁跟谁拉pk好吗？啊，这是七号玩家的预言家面。哎，过了，我单听到七号玩家的发言，百分之七十八后置位不是聊的，带那个太优秀，把你的视角展现的很正很正的，我帮你会票死三号玩家。",
+      "summary": "八号玩家建议票三号玩家，七号玩家评价四五六三张牌子的发言，六号玩家听掉，四号玩家是钢铁听杀，五号玩家可能保错，四六号玩家底牌可能形成狼人牌。七号玩家有预言家牌的视角，要弄死三号玩家。",
+      "format": "{\n    \"身份类型\":{\"好人\":[3],\"狼人\":[4,5,6]}, \n    \"动作类型\":{\"归票\":[8->3],\"听杀\":[4->5]}\n}"
+    },
+    "Day 1 Daytime - [9] is speaking": {
+      "duration": 171.8,
+      "rms": 0.090812,
+      "text": "好吗？哦，我是个白牌，你愿意票，你愿意票去，这跟我没有关系。嗯，八号牌打一苏悟空明出来票验你这张报呗，六七八能不能成为三个？是我需要是这个三需要打的，跟我没有关系，你们就祈祷这个三号牌不是一张女巫牌，我为什么去吃验这张五号牌，五号牌上一把五端吃毒了，他在公屏上扣了一个字，他说我真害怕什么女巫。我当时想的这么柔弱的牌，需要我保护一下吧。我拿预言家的守我就死，我当时就这么想的，我就去开验了，我就我就开验了，是张五号牌无关，他的底牌是啥？他底牌是张金水牌，我就告诉你们一个点啊，六的爆点，你这张八已经聊出来了。我为什么把你这张八打一手容错，其实按照你的行为动作，我一定打你六七八是三张狼了吗？六号牌是告诉你四号牌像狼，因为五一开始聊了四号牌，可能是狼。那呃后来又去又去保一下这张五。那在他的视角中，优先的基础逻辑是四为狼五去保四五五的身份有两种。第一种好人牌保错了。四第二种狼人牌是五是两个，但是他独立打出五是一张定刀，要跟五去拉pk四号牌反而不动了。那他的基础逻辑已经从他的发言当中已经瓦解了。七杠，你聊吃的点，七杠，你你五六平啊，五六平，我不管我要把这个三先弄死啊，你六号牌应该是张好人。那在他的视角五就得是狼，但五的底牌是张白，他一看他妈给白牌下一张查杀那五的票，再不要他票不够了，他回头告诉你这个六号牌得是一张狼，他一开始是不是这么说的，五六，你你你你六号牌打五，你打五吧，但是他回头想想票不够了，这是他聊爆的点。所以六七是两个，你八号牌告诉我七是有百分之预言的啊，百分之七十嘛，你就票三去，那你就起到这个三号牌，不是个女巫，要不然你八在毒六以后，我倒牌，你这张八有可能被抗推啊。五是一张金水，我跟你五个表水是我跟你不太熟，我只不过认为你这张牌找狼视角突呃，优秀，但是容易吃毒。因为你知道找狼视角优秀的牌，他就容易被人家狼人牌抗推成开眼牌啊，我是来冲了保护你来的，而不是说我要翻你的底牌，一定是金水或是狼人啊，我底牌是张预这个五是一张金水，我狼坑打。",
+      "summary": "九号是白牌，不关心票。六七八可能是三个狼，三号需要打。五号牌是金水，六号可能是好人，五号不是女巫。七号牌告诉你七是预言家，票三号。五号牌找狼视角优秀，但容易吃毒。",
+      "format": "{\n    \"身份类型\":{\"白牌\":[9],\"狼人\":[6,7,8],\"需要打\":[3],\"金水\":[5],\"好人\":[6],\"预言家\":[7]}, \n    \"动作类型\":{\"归票\":[unknown->3],\"找狼\":[5->unknown],\"吃毒\":[5]}\n}"
+    },
+    "Day 1 Daytime - [1] is speaking": {
+      "duration": 180.0,
+      "rms": 0.021479,
+      "text": "六七八容错是一张好人牌哈，脑子在飞快地转啊，这个九号牌我在转什么？这个九号牌说去验，这五号牌是要去奔保护，去验的，说他容易吃毒你，然后又说无关乎他金还是杀你。一旦有出现，想要保护这个五号牌去验他，你肯定要想到万一他是一张狼人牌，你怎么去保护他呀，对吧？九号牌。如果你拿真预言家的话，你觉得我说的这个怎么样？然后这个七号牌评价前面三张牌，他盘的是这个六是狼盘到最后盘，这个六是狼六，而且他打了一波熟悉度。他说这个六如果拿一张好人牌不会去，不会去前置位去找一张牌去上pk，我觉得打熟悉度这个没有用啊，你看为什么这个六要去觉得五是狼，因为六他觉得首先他反映的是五号牌，他的发言听不懂比较优秀啊，因为发言是为为狼做事儿的。六，最开始是这样发言的。然后六为什么打？五是因为他觉得四号牌是听杀的，因为四号牌说呃我不表水了，我要是预表水的话，我就要吃到八票，但实际上他是表了水的对吧？而且你为什么你表水会吃八票？所以这个六听四听杀。但是这个五前面去评价这个四号的时候，他刚开始是觉得四号是没有杀心，最后又把四号放下了，所以六觉得五像狼对吧，对吧？是是这个道理吧，我再捋一下哈。四号六号牌是听杀四号牌，但是五号牌又去又去放了四号牌，所以这个五对四号的评价跟六对四号的评价是完全不一样的，所以六拉五上pk，对不对？然后八号牌是去信百分之百分之七十的这个七反我两张预言家牌，我都有听到不好的一点。但是这个七号牌我觉得叫什么自信度，好像比这个九高，再加上九验这个五的这个心理路程，加上这个五，其实我听五也没有那么好。因为他当时评价四号的时候，我。",
+      "summary": "六号觉得五号像狼，因为五号对四号的评价跟六号不一样，导致六号拉五号上PK。七号牌信百分之七是的自信度比九号高，九号验五号心理路程复杂，五号评价四号时有矛盾。",
+      "format": "{\n    \"身份类型\":{\"狼人\":[5]}, \n    \"动作类型\":{\"无结果\": []}\n}"
+    },
+    "Day 1 Daytime - [2] is speaking": {
+      "duration": 179.6,
+      "rms": 0.080159,
+      "text": "偏信七好吧，偏信七四十个刀口啊，咱们拿好，一共就这么几秒，先交站边盘，谁是狼，谁是狼，然后再盘他是他是狼的点，是好人点行吗？就这种复读机一样的表水说六说啥了，八说啥了，五说啥，我们都听着了，你给出定义就行。真着急，我听不懂这张一说啥，最后告诉我信七，我他妈都想，我都想回头我是个女巫牌，这张四是刀口牌。我现在不知道二宝哥的站边了，但是我最后的毒人流会从他的站边去以他为主。我说实话，我偏信这张七，我不太想认这张九号牌，张九号牌一直说啊，你就你就你就庆幸这张三不是是不是巫得了，是不三是不是张巫牌，我我跟七是匪配，我他妈也能补巫，跟他九三是不张五有啥关系，你拿预言家牌你就好好聊。你拿预言家牌能告诉我，我保护这个五去的五摸出一张金水牌。他发言完了，角角嘎炸炸拉不拉拉。你预预言家面好么好人能不能找到你？八想认七，怎么在全场就八一张牌啊，那不还有那么多牌吗？啊，你愿意票一票就跟我没有关系。那么那每一张好人牌的票都跟你有关系，怎么就没有关系呢？五最后又来又来一句，小孩要醒到最后又来一句，嗯，六七是两个八容错，为什么一定要打这张六呢？为什么一定要打死这张六呢？我他妈都想打你三七八，不是三八九，我是不是你知道为啥吗？打法不一样。六是不是狼跟你们没有关系，小苹果，我这票可能会票，你因为我不想认张九号牌，我可能会毒这张一呀，那一龙共那么几秒，我偏心张七啊，我打谁是狼嗯，没倒，偏向七，没有了，完了重复一遍。四的发言，五的发言，六的发言，八的发言重复完之后没打谁是狼，不是狼，我我一定会毒。这张一啊，除非你三号牌跟我悍跳张女巫牌牌，或者是你跳一张女巫牌，或者是你就这样，你打二七是两个，我既然不信这张九了，我就愿意让你帮我跟七去绑票去。我不知道二宝哥信不信这张七，我听九的发言就不像。还有一句对话是嗯九的发言是不是这样的嘛，你听啥样的就是啥样的，你要跟好人要有有什么碰撞吗？也你也认真听发言，没有去篡改发言，对不对啊？听九就不像你悍跳个女巫，你就能活就。",
+      "summary": "偏信七，不想认九。四五六八的发言重复一遍，偏向七，打谁是狼就毒谁。可能会毒一号牌。听九的发言就不像，不想跳女巫牌。",
+      "format": "{\n    \"身份类型\":{\"可疑\":[7],\"不像预言家\":[9],\"女巫\":[unknown]}, \n    \"动作类型\":{\"毒\":[unknown->unknown]}\n}"
+    },
+    "Day 1 Daytime - [3] is speaking": {
+      "duration": 179.1,
+      "rms": 0.162822,
+      "text": "找预言家啊，找预言家，那你不是补了吗？你打这个一打的舒服吗？我银水牌聊的告诉你七号玩家这个位置，我我想认七一号玩家就请记住，我是出来替你七号的，你是我刀刀那个二号牌，他告诉你狼坑是三八九，一号玩家，你必须得跟我走。那个二不是打狼坑是三八九嘛，这个八号玩家站边，七号玩家告诉位七号玩家百分之七十预面，你二补没有关系啊。这个八号玩家晚上我必毒，就八号牌的票就是好人，我我都不要，他是好人，我他妈就让三狼起立。这八号不是十十，听杀，告诉你要去站边七七，有百分之七十预面前置位四五两张牌不定义告诉你六是狼人，你六怎么是狼人呢？那你二的视角觉得六不是狼人，那格局上依旧，为什么是狼人？一号玩家，可是站边七号玩家的那你毒一号玩家，一号玩家跟你同视角认七号玩家为预言家牌，三号玩家大概要出局的一要去点三。那你二号玩家这个位置补不就是觉得我的银水牌聊的不好吗？一号玩家高置位，他那个位置要去跟你认的预言家同视角站边去点三了。那你二号玩家这个位置跳出来，不就是在补位嘛，怎么全场拉票啊？就听了一张狼牌，是这个八，我告诉你，我听你狼队友也是个狼，这个八晚上我必定把他甩了，就百分之百甩他，你一的票给我挂到这个七的头上。那个明天我会让你们见双死，我会毒八去验证身份。那个二号玩家，我让他明天摆在台面上，让他尴尬。你二不是状态起的挺高的嘛，那二的视角递出来都是炸裂的。九号玩家递出来视角，前置位验出五为金水牌，告诉你六号玩家，你九号玩家你能打六的这六能是狼的，六号玩家是狼六前置位去压五干什么呢？压五还觉得四聊的不好，认为五号玩家这个位置格局上觉得四号玩家聊不好，五号玩家给四好人，那六号玩家觉得四聊的不好，又觉得五聊的不好。六去拉四五两张牌的仇恨值，那六能是狼的那七号玩家在那个位置心路历程不都是白天现边的吗？你起杀新的一张牌，你验视角告诉你前置位，你六去扣五就不对。那七号玩家在聊什么呢？你验五是金水牌，那狼坑不就二八九嘛，你能把八放了一号玩家，你是刀口啊，这个二是一张悍跳狼人牌，他在补位听懂了吗？你跟我去票这个七晚上，你八必死，你永远见不到。第二天太阳懂吧，我拿女巫，我从来都是外置位去毒。第三张狼牌，你是白牌，你聊的跟狼一样，我就直接把你甩死，我就定义你八是个刚狼，你跟你狼队友脱了裤衩子冲没有关系，你冲啊，你冲我就让你吃毒。那二号玩家去告诉你，一号玩家底牌，像狼人，晚上要甩一，然后前置位打出三八九十三个怎么打的？",
+      "summary": "三号玩家认为七号玩家是预言家牌，八号玩家是狼人，会毒他。建议一号玩家毒三号玩家，二号玩家跳出来补位。九号玩家认为六号玩家可能是狼人，七号玩家认为五号玩家是金水牌，狼坑是二八九。三号玩家会被淘汰，建议点三。",
+      "format": "{\n    \"身份类型\":{\"预言家\":[7],\"狼人\":[8],\"毒\":[1],\"好人\":[2,3,5,6],\"金水\":[5]}, \n    \"动作类型\":{\"归票\":[unknown->3],\"补位\":[2->unknown],\"查杀\":[unknown->3]}\n}"
+    },
+    "Day 1 Daytime - [9] gives the last words": {
+      "duration": 149.5,
+      "rms": 0.089271,
+      "text": "我有一个不是嗯二牌，我我我不不不能对话啊，我不对话，我只告诉你三的发言，就该拉第一次当九号牌的面。当你的发言跟这个七一定不能做成共边的时候，你要去读这个一三给一干出一张刀口牌，一三一定是两个狼坑，就是一三七嗯九为狼，你们就打不了。六是狼人，因为三九是两个三六九打不出来。五、如果为狼那九就不会再给前置位的队友去干一张金水牌，你只能打出八九是两个九，在这个位置打掉六号牌一张白牌，这张再把这张八号牌打飞，那三九就做不了两个。七、在这个位置，为什么聊的爆？我当时想的是六七是两个，他要保他的队友，因为六打我的金水牌是没有点的。他的基础逻辑是四为狼，你只能去打八张五号牌，因为五保下了四，但五保下四的时候，五的底牌有两种格式。我跟你聊了白牌保错了四，那他应该优先攻击。四对四对五号牌有容忍度或者四五是两个。但是他打完五以后，他不打这个四，而他要把我的金水上pk，所以我打了六是狼七号牌。在这个位置一开始是没有打五六里面的牌，他是你狼要pk，没没关系，我去点这个三就行啊，懂这意思吧。但是最后告诉你，这个六号牌是一张狼人牌，我就想着六七是两个八，要认七，我就打狼跟打出六七八三号牌，其实是有一个口误的，三号号牌的口误是二八九，他接了七的查杀，凭什么聊出二八九是三张狼人牌啊，他出来的意义无非就是想把我这个九九打飞自己，而不想出局。那九号牌跟坐三号牌做成匪配，九号牌到前置位打三张白牌，我是疯酒了。那九号牌能跟这个三号牌能做成队友吗？哪怕是一三。",
+      "summary": "九号牌认为一三七是两个狼坑，六号是狼人，八九是两个九。六七是两个八，要认七，打出六七八三号牌。三号牌口误是二八九，六号是狼人牌。九号牌打三张白牌，跟三号牌做成匹配。",
+      "format": "{\n    \"身份类型\":{\"狼坑\":[1,3,7],\"狼人\":[6],\"九\":[8,9],\"八\":[6,7],\"白\":[3,9]}, \n    \"动作类型\":{\"打牌\":[unknown->6783],\"口误\":[3->289],\"匹配\":[9->3]}\n}"
+    },
+    "Day 2 Daytime - [7] is speaking": {
+      "duration": 79.3,
+      "rms": 0.102308,
+      "text": "主要是有例外，面对盯着脸连出来吧，最后连一轮他们脸呢，你跳舞啊，q哥是金水，没办法，你认为四是狼五要去保四，你你要拉五上pk点神毒水，预言家都不找了，你就要拉人上pk。那明明就你你末置位，你可以去拉你高置位，你去拉我怎么认你是好人，对吧？那个三就跟认狼那个三就跟认狼没什么区别啊，二二跟七二跟七做二跟七做队友那个二在那个位置，把这个一级横死啊，二级告诉你一号牌，你就钢铁吃毒那个那个那个那个三告诉你啊，一一是个银水啊，想拉一的票没有用，知道吧？没有啦，我过了啊，跳舞不会，大哥，你是狼啊，至于你删不删呢？",
+      "summary": "七号玩家说，面对盯着脸连出来，最后连一轮他们脸，你跳舞啊，q哥是金水，你认为四是狼五要去保四，你要拉五上pk点神毒水，明明你末置位，你可以去拉高置位，你去拉我怎么认你是好人？三就跟认狼没区别，二跟七做队友，把一横死，一是银水，想拉票没用。",
+      "format": "{\n    \"身份类型\":{\"金水\":[7],\"狼人\":[4],\"毒\":[5],\"好人\":[1,2,3,6],\"银水\":[1]}, \n    \"动作类型\":{\"归票\":[unknown->4],\"pk\":[5->unknown],\"毒\":[unknown->5]}\n}"
+    },
+    "Day 2 Daytime - [6] is speaking": {
+      "duration": 167.7,
+      "rms": 0.088306,
+      "text": "那就是你的事儿了啊。嗯你视角那么炸呀，你拿什么当预言家啊，掉七啊，为什么视角炸了呀？我第一天没有打，四是个定狼，我只是认为四号牌有点可打。当这个五号牌不去锤这个四还去放这个四的时候，那我第一天打这个我的视角是不是真的？当我的视角是真的的时候，你第一天放这个五打这个六八号牌打这个六是跟着你，那我打你七八十两个一点问题都没有啊啊，也三三号牌起来干啥？三号牌只需要去表水就行了。二号牌已经按说要去毒掉这张一号牌了，这个一的票型也很跟鬼一样，对吧？那你告诉我三五九为三个，他们的狼队友接到查杀了，他不外罪去拉拉票，甚至外罪去干个查杀，对吧？那九号玩家都告诉你，希望三不是一张女巫牌的时候，三就能见面了。你的视角第一天就炸裂了。当你视角炸裂的时候，请你把我拿在锤晕的时候，我告诉你我你看这个这个就没没弹性，知道吧？我票七啊，你看三二号牌告诉你打出七八三七八的时候嗯，对，二号牌是是打了三八九，对，三八九的时候，七二八号牌都百分之七十要认掉这个七了二号牌平衡能打出三八九啊。因为这个一想去信这个七这个五没交站边，这个四没交站边对吧？七而四又是四四四还是四他的刀口，他说对不对？这个舞台聊都不敢聊的，两张没都没有五六的那是一个女巫视角吗？我不认为他是女巫视角，好吧？嗯，你说三二都要二跳，一个女巫都要直接去毒掉。这张一的时候，一号玩家你看清自己的底牌，一三号人牌，三号玩家他只需要一刀的机会，他平衡告诉你，他是个女巫啊，对吧？当你七玩家第一天视角炸裂的时候，我第一天没有打二宝哥是个定狼。后来我不晓得为什么你们后来都都告诉我，二宝哥是个我打二宝，是个是定狼，因为五没去锤他，我才锤那个五五对四的反应不对，我还不锤他啊，二五金金水。",
+      "summary": "六号认为视角炸裂的玩家不能当预言家。他认为四号可打，五号不去锤四号可疑。三号只需表水，二号应毒掉一号。七号可能被认掉，四号是定狼。三号可能是女巫。",
+      "format": "{\n    \"身份类型\":{\"预言家\":[], \"可疑\":[4], \"好人\":[3], \"女巫\":[3], \"定狼\":[4]}, \n    \"动作类型\":{\"毒\":[2->1]}\n}"
+    },
+    "Day 2 Daytime - [5] is speaking": {
+      "duration": 173.8,
+      "rms": 0.075953,
+      "text": "那五我就觉得五是个真金水，好吧，我是枪这么打，怎么打？我跟二宝哥，他那个发言，我分成两种阶段，他第一段的发言是一定是狼人的视角。但第二段发言就不是你们当时只扣了一点，扣不到。第二点的时候，我觉得就是你们从那个话语中抠出点东西来当成我认人。我不说我百分之百能保证认人，知道吧？我认人，我是第一天，从第一天你说了一个字，我就开始认的。我不是说你们讲那些，你们也是逻辑，你们也是道理，我从中间开始讲的自信了。但是你们所打的狼跟我打的狼的视角就从前打的完全就不一样，那没意义。这个东这个东西这个东西是没意义的，知道吧？属于是强打，因为你递不出，因为你递不出逻辑视角，你只能是强打。如果说我敢我敢去保四，他的狼面，我都聊了，他的好人面我都聊了，最后我才能给出他一个是个好人的视角，这就是我巫的白面。那你今天七号你今天票五票五就结束了，你的视野票五结束了。二是女巫一钢铁百分之七十、百分之七十占面点七。那三个一发音水的意何在呢？你有没有想过他都已经站边你了。三是狼九是狼五，这个位置是狼，但但我今天还是杆枪一号乱了，为了就是拉一的票，你的视角二是个钢铁。女巫二说，晚上毒一了，就一定毒一那三是个狼三还会去拿一的票吗？是不是前置位的狼坑打错了三呀，一要干嘛？一是钢铁跟着你去走的，百分之七十就隐身钢铁了。他没有说一是百分之五十好面，百分之五十狼的面板，所以你已经投票了，干啥呢？我让二女巫啊，我说二是个女巫啊，哇，你真把五票了二号。",
+      "summary": "五号认为自己是真金水，对二号发言分成两段，认为第一段是狼人视角，第二段是强打。建议票七号，认为五号票结束后视野也结束了。三号可能是狼，但今天还是杆枪一号乱了，为了拉一的票。建议让女巫毒一号，不必再投票。",
+      "format": "{\n    \"身份类型\":{\"金水\":[5],\"狼人\":[3],\"猎人\":[1],\"女巫\":[unknown],\"好人\":[7],\"可疑\":[3]}, \n    \"动作类型\":{\"归票\":[unknown->7],\"毒\":[unknown->1]}\n}"
+    },
+    "Day 2 Daytime - [4] is speaking": {
+      "duration": 38.6,
+      "rms": 0.058861,
+      "text": "要验枪，咱们就验枪啊，嗯一块儿拉倒吧，你认二是女巫，你认二是女巫，三就得是狼，三是狼，你就得打出一三七是三个狼，进入九的视角。九是预言家知道吗？那个八还是得是好人，没有我的认二是女巫认认认认。",
+      "summary": "要验枪，咱们就验枪啊，嗯一块儿拉倒吧，你认二是女巫，你认二是女巫，三就得是狼，三是狼，你就得打出一三七是三个狼，进入九的视角，九是预言家知道吗？那个八还是得是好人，没有我的认二是女巫认认认认，",
+      "format": "{\n    \"身份类型\":{\"枪\":[], \"女巫\":[2], \"狼人\":[3,1,7], \"预言家\":[9], \"好人\":[8]}, \n    \"动作类型\":{\"验\":[unknown->9], \"认\":[unknown->2]}\n}"
+    },
+    "Day 2 Daytime - [2] is speaking": {
+      "duration": 179.3,
+      "rms": 0.096178,
+      "text": "认二是女巫先票七嘘，怎么能票都清啊，是不是认我是女巫，在三号牌的视角，他是一张真巫牌，九号牌已经倒牌了，对不对？他不去毒明狼，他毒隐狼二宝哥啊，哎呀，我的妈呀，九的发言能拿预言家，他保护这个五家。像这张一说的，你查你查验出五号牌是个狼，你拿啥保也保护这个五号牌啊，九号牌拿啥当预言家牌啊，我为啥打三八九，因为九号牌说他赢百分之七十百分之十七，有变票的，可能你愿意票就票，就跟我没有关系，这是一张预言家牌的视角啊，他都要站错边了，他没有听他是张狼牌，他不泼我婆心，要他票去三号牌，知道为啥查验你吗？因为全因为全场你发言就是有点那个知道吗？拿狼牌，我他妈就瞎玩啊，我他妈必须毒，这张八号牌，这能真的能坐实自己女巫身份错不出来，你看好人牌都没吃，谁一都没吃这信息。我为啥对？一有敌一就最后四秒，倒数第四秒，我偏认这个七一张狼没打呀，重复了一遍。所有人发言跟智宝一样，就重全重复一遍。我就想听听他打信，谁打谁。那五的发言不是狼，你前面段聊的那个听杀，后半段聊回来了，有听杀的点就一定不存在后置位，再怎么发言，除非擦边贴脸吧，他能把他逐一把他放，有听杀的点，就一定不存在放这张四吧，六不接金水了吗？咱们票五让五带一七，就是预言家，这个九就一定不是预言家。你别听他说一三七就一三七，你从九的本体发言能找到九是预言家吗？哎，六愿意票七，让他票七去二，宝哥我救你，你就听我的，我是你是我生命的延续，你给我票五，你让五是个枪，你让他去带一去，就一七是预言家家视角为主，别跟我俩票这个票那个的六的金水牌下回不验他，咱也不要他的票，谁能五六两张牌？票七谁也不用给我票，七票，一四两张牌都得给我票。五要牌。我不是针对你这个人有敌意啊，没有，就是你没我找狼的时候，我拿女巫牌，我就压力山比较大啊，你能找到预言家牌，你很优秀，所以说跟我票五一二四给我票五去，还有七这六号牌，你愿意票七，他自己票七，我指定票不了。是的。",
+      "summary": "二号玩家认为九号牌是狼，不是预言家。他建议票五带一七，让五号牌去带预言家，同时他认为六号牌不接金水了。他还说自己是女巫牌，希望能得到一四两张牌的支持。",
+      "format": "{\n    \"身份类型\":{\"狼人\":[9],\"预言家\":[5],\"金水\":[6],\"女巫\":[2],\"好人\":[1,4,7]}, \n    \"动作类型\":{\"归票\":[2->5,2->1,2->7],\"带\":[5->1,5->7]}\n}"
+    },
+    "Day 2 Daytime - [1] is speaking": {
+      "duration": 154.1,
+      "rms": 0.014755,
+      "text": "票五让五带一好吧，嗯不跳枪，七是狼二号牌，我现在有一点懵哈，但是我能确定的就是女巫牌有明狼不毒去选择毒八号八号只说了百分之七十，信这个七这个三号就要去毒这个八，所以我信不下三号牌，这是为为为什么我那个投票去占别人七的原因？好吧，是，然后这个然后二号牌上一把发言说要毒。我我当时是想的，哎，也有可能是钓鱼什么的对吧？所以我不会因为说二号牌要跳要票，我我就不信他是女巫，我是这么盘的，是不是跳舞吧？好吧，真预我把时间耗完，您自己想一想一一。",
+      "summary": "女巫牌有明狼不毒八号，信不下三号牌。我不会因为二号牌要毒就信他是女巫。时间耗完，自己想吧。",
+      "format": "{\n    \"身份类型\":{\"女巫\":[unknown],\"狼人\":[8],\"不确定\":[3,2]}, \n    \"动作类型\":{\"无结果\": []}\n}"
+    },
+    "Day 2 Daytime - [7] gives the last words": {
+      "duration": 177.7,
+      "rms": 0.146011,
+      "text": "我是一个完全不用。嗯，他这个十天他真强，哎，不他闷票，他不玩输他么强，去掉这句话，那好话都快有骗药，我都快点呢。这干什么是预其？所以里边有朋友啊，男朋友朋友在太吵，嘿嘿嘿，是不是一号牌，你看啊，我验六十金水那个五拍枪，你拍枪，那你已经没法打了呀，那你只有认狼呀，因为你票死我也没用，你除非票五你只能票五赌这个五去枪七懂吗？你才能赢。不是我现在就特别后悔，你知道吧？你知道我后悔在哪里？就是就是第一天的发言。我听五是好人，那个六幺八五上pk的时候，我认为六是钢铁狼人，但是我开出来六是金水的时候，票型上我不可能去打一知道吧？我票型上那个一挂那个一帮我去票的这个九，我总不能告诉你把五摘一摘，把这个一票死吧。那怎么可能呀，我后悔在哪里？我后悔的我应该去就去验不悔，知道吧？我我去把这个六抗推掉，我进去把这个六干死，看这个六看这个六多了，是这个道理吧，你说他上匪票，他要拉五上pk，我听的五就是钢铁好人，他要拉五上pk，那我前置位我总得去找狼啊。那四没听出来，我听五是钢铁好人，他要拉五上pk，那前置位找狼不找六找谁啊？那是不是是不是找不到别的牌？哎，真后悔，我开出来五金水，我靠把这个六干死，把这个六干死票六票六，因为我给不会干金水，那不会可能就真真跟我去票六啊那个六干金水那个六说啊，先票七先票七。其实我是我忘了说一句话，就是我一定要上pk的，知道吧？因为那个八是个好人走的，那个八是个民走的，就我一定要上pk，就这对话没聊出来，嘿嘿嘿。但是一号牌你告诉我，你要票五，你一票挂好头上，你你只能去票五知道吧？就是你只能赌，他们先，你只能赌这个五死不带你去票，七去枪七知道吧？因为二是个女巫，他们二是个他们认掉的女巫，你把这个五冲死，他五去把七枪死你就赢了。懂了吧，对，后悔啊后。",
+      "summary": "七号玩家建议票五号玩家，否则只能赌一号牌。他认为六号是钢铁狼，但开出来是金水，后悔没去验不悔。他要上pk，但没聊出来。建议赌五号死不带走，让七号去枪七号玩家。",
+      "format": "{\n    \"身份类型\":{\"狼人\":[5],\"金水\":[6],\"猎人\":[7]}, \n    \"动作类型\":{\"归票\":[7->5],\"枪\":[7->7]}\n}"
+    },
+    "Day 3 Daytime - [4] is speaking": {
+      "duration": 18.6,
+      "rms": 0.084711,
+      "text": "嗯，现在没问题了吧，那六是金水吧，那个一你是狼的银水啊，一跳枪就票五了，好吧。",
+      "summary": "嗯，现在没问题了吧，那六是金水吧，那个一你是狼的银水啊，一跳枪就票五了，好吧，",
+      "format": "{\n    \"身份类型\":{\"金水\":[6],\"狼人\":[1],\"银水\":[1],\"枪\":[1,5]}, \n    \"动作类型\":{\"归票\":[unknown->5]}\n}"
+    },
+    "Day 3 Daytime - [5] is speaking": {
+      "duration": 168.3,
+      "rms": 0.083638,
+      "text": "六条枪也票五了，嗯，谁自编进来，告诉你把一杆杀局算掉，你这样打是吧？三是三，你要二是女巫，你四跳枪我就得死，这是谁？女巫啊，我都告诉你，二是个女巫，三是个狼那一的站稳七的三，凭啥给一发二八银水啊？三没道理，给一发银水啊，你这是要认我七是个好人，对吧？五得是个狼，当七告诉你五是个好人，六是个狼，那我为啥要票他呢？那票六不就完了吗？七的视角告诉你八是个民头的，没人跳枪吧，跳枪的就只有六号这个位置去刚枪。他刚完枪，你今天把我票了，明天卡一是不是结束了，有意义吗？没意义啊，你到现在还分不清女巫是谁啊？很喜欢，就不能那个。首先不要，你认为七是个预言家。七、昨天给六发的金水六跳枪五就必死，你知不知道？那你今天的视角何能聊到一呢？我是认二女巫，你试试银水，我没去聊，你明白不信息神话，当一告诉你要三门七的那三是个狼三位，还要去给一发金水，发那个银水，那不像拿一的票吗？你这点还没搞明白，那今天位可能是二倒牌啊，我让二是女巫，我倒牌，我就一定崩七，我就一定崩，他想过想过了没有，今天场上没人敢拍枪，懂吧？我跟我我就告诉你后跳开枪，你问谁敢拍枪？昨天我是第二个麦发言的嘛，从经期之内，你如果你四是接银水的，我还认二是个女巫，那我拍枪我是不是死的啊？今天杠五了，早错预言家，这天就这杠五了，认为六是个金水七的第一视角，是不是告诉你五杠两好人要去跟六六要去拉五上pk，不干死六吗？另外神是。",
+      "summary": "五号玩家认为二是女巫，三是狼，七是好人。七告诉你八是民，六是狼。票六没意义，跳枪的只有六号位置去刚枪。今天场上没人敢拍枪。五杠两好人要去拉六上pk。",
+      "format": "{\n    \"身份类型\":{\"女巫\":[2],\"狼人\":[3,6],\"好人\":[7,8]}, \n    \"动作类型\":{\"跳枪\":[unknown->6],\"pk\":[5->6]}\n}"
+    },
+    "Day 3 Daytime - [6] is speaking": {
+      "duration": 78.3,
+      "rms": 0.085684,
+      "text": "玩啊，那那么为什么啊？我告诉你，你如果今天把枪的衣服脱了，我一定回头去干那个一懂吧。但是你今天告诉我兄弟，你走远了，好吧。首先六是杆枪，我为什么票七没问题，我觉得好吧，你看二是一个民好人牌吧，二是个民好人牌的情况下，二号牌号票票五的时候，我就没有理由去票。这个七的好吧，给了你最后的机会，你不中用啊。秀秀秀喵喵喵喵喵喵，嗯，你既然脱衣服，脱衣服视角就一定进一。好吧，你今天不识趣告诉你麦这没有枪了啊，不好意思啊。我第一天打你是绝对打对了的，等等你盘啊，你盘不出你你你现在打狼坑我，我是你你打六是个狼，你就只能打二十二三。对，跳女巫二十在夜里，三六是两个三六七或者是三六九，你打三六九六是金水，你打三六七。",
+      "summary": "六是杆枪，票七没问题。二是好人牌，票五时我不会票。七给了最后机会，没用。脱衣服视角进一，今天没枪了。打六是狼，打二三跳女巫。三六九是两个，六是金水。",
+      "format": "{\n    \"身份类型\":{\"枪\":[6],\"好人\":[2],\"狼人\":[6],\"女巫\":[3]}, \n    \"动作类型\":{\"归票\":[unknown->7],\"打\":[unknown->6],\"跳\":[unknown->2,unknown->3]}\n}"
+    },
+    "Day 3 Daytime - [1] is speaking": {
+      "duration": 180.1,
+      "rms": 0.050322,
+      "text": "昨天就把你给票死了，票六啊，好吧，玩到最后我这个表现最迷的还留到最后啊，我发现最后这个四号也有点懵啊，跳六好吧，跳六在跟五号跳跳枪，是不是？哎，我吼的有点大一声，我就说六号一起来要干这个七有点奇怪啊，我现在反应过来了，六七双狼，对吧？哎，不对？七是给三号干查杀呃，七呃，反正六是狼，我我是中间是有点迷哈，但是最后二是女巫，四是刀口，五是枪嘛，六给给五号钢枪啊，你上一轮投票怎么不投五呢？对吧？你不投五，你是枪，你不投五，你去投七啊，等一下六是投的谁？对，六是投的七把那个把那个真预真预言家给弄出去了，对吧？投六好吧，我是民牌啊，我再捋一下，真的是有点有点迷。但是我呃呃那个二号牌我跟你说，你说我重复，我即使认了哪一张牌，我是不是也要说一下，为什么他是狼，我是不是也要重复一下他们的发言，他们的发言是这样的，为什么他们是狼，对不对？投六好吧，你还说五号脱衣服，五号怎么能脱衣服呢？对不对？还有什么没啦，我再捋一下啊。七号是预言家，三号是假女巫，假女巫去呃，就是他眼中的他三号视角中的这个二号女巫，她她不去毒，他要去毒，八号，对不对？所以我当时盘的是三号是是假女巫，所以我那个票型是这样子的，七号为什么纠结半天还是投了七号？他是哎，但上一局是为什么啊？因为我在开车，我只标了一个五号金，五号金是这个九号给的金嘛，七号上一把是给谁标的，他是说六号金对吧？投五对，他标的，六号金投五对吧？那不是两狼狼发金吗？啊，不是哎，七号是给六号发的金，你五号刚才不是说二号是女巫吗？我是一张民牌啊，我靠，我又绕进去了，嗯，嗯，六号在。",
+      "summary": "一号玩家分析六七是双狼，七是预言家，三是假女巫，二是女巫，四是刀口，五是枪，六是狼。投六。",
+      "format": "{\n    \"身份类型\":{\"预言家\":[7],\"女巫\":[2],\"刀口\":[4],\"枪\":[5],\"狼人\":[6]}, \n    \"动作类型\":{\"投票\":[1->6]}\n}"
+    },
+    "Day 3 Daytime - [1] is speaking (round 2)": {
+      "duration": 54.2,
+      "rms": 0.072016,
+      "text": "爸爸，我是一张民牌家，人们这一局大家都都打的特别迷哈。我是在看票型，因为闪了一下，都有人投，我投的四四，投的五四投的五四，是不是狼啊，没人跳枪了。哇，那狼人不是赢了，没人去上票了，没人去上票了，这四是狼就我找到了，对吧？结果这个二是二是狼，对不对？狼狼，发银水，我盘对了吧，你们说吧，因为没有人去跟这个五号跳枪啊，你看一下这个四去投这个五过了。",
+      "summary": "一号觉得四号可能是狼人，但是二号可能更可能是狼人。没人跳枪，狼人可能赢了。四号可能是狼人，但是二号更可能是狼人。",
+      "format": "{\n    \"身份类型\":{\"狼人\":[2]}, \n    \"动作类型\":{\"无结果\": []}\n}"
+    },
+    "Day 3 Daytime - [4] is speaking (round 2)": {
+      "duration": 114.1,
+      "rms": 0.097628,
+      "text": "好，输了好人，我是枪啊，我是枪，他妈四五六都是枪，知道吗？四五六都是枪，你认二是女巫，四是银水。对吧？对不对？四是枪。对对，你是七是预言家嘛，六是金水六也是枪，对不对？我是枪牌啊，那那四五六都是枪啊。嗯我说了那个一跳枪票五六跳枪票五，我让你们俩跳枪，你不跳，对吧？你看啊四票五五票、六六票一，明白吧？你迷啊，你认谁是预言家啊？我我估摸着树树上树上的树上的那些那些牌，也找不着，找不着那个预言家的。你认六是预你这七是预六六，他妈十金水，你认九十五是金水，你认二十五，那那那个四是刀口，你票得着四吗？哎，你跳得着四吗？就你一个在场上装懵，装懵，你装什么懵，嗯，那么昨天就应该把他干掉，你知道吗？把这个一票那个一是狼一打倒钩了，哎呦，我的没有考虑到。",
+      "summary": "四号玩家是枪牌，四五六都是枪。认二是女巫，四是银水。四票五，五票六，六票一，你迷啊，你认谁是预言家啊？你跳得着四吗？昨天就应该把他干掉，把一号狼打倒钩了。",
+      "format": "{\n    \"身份类型\":{\"枪\":[4,5,6],\"女巫\":[2],\"银水\":[4],\"狼人\":[1],\"预言家\":[unknown]}, \n    \"动作类型\":{\"归票\":[4->5,5->6,6->1],\"倒钩\":[unknown->1]}\n}"
+    },
+    "Day 3 Daytime - [5] is speaking (round 2)": {
+      "duration": 111.1,
+      "rms": 0.024306,
+      "text": "嗯，狼诺德，我操好人哪万一打到我是吗？我自杀而不管认啥，我都自个去扛。而七个裸点上到五的时候，我还是二十个理由，二二五八三，为什么补刀？二本马上已经爆了，我开枪，我这一定封了人，他们就一定扫人。我是说你明水啊，我让二十个女巫把百灵出局啊，那你跳我干啥啊？当三起来告诉一是个刀口医药半边期疑似版本七了吗？那三位狼要告诉你历程的刀口。三告诉一打守卫，需要拿想拿一票卖一的视角。在你的视角是个好人，对吧？一的视角在你的视角是个好人，我是个枪，一是个民，你也是个民。那六为啥不是狼？我六为啥今天不算不送边的，我这很不服气的人，又为啥不是狼人？你看啊，于是民一四民听说要票掉吧，对吧？嗯，那我过麦了。",
+      "summary": "五号玩家表示不管自己是好人还是狼人都会自杀，提到了二是女巫，三告诉一打守卫，六为什么不是狼等信息，呼吁大家要从不同视角看问题。",
+      "format": "{\n    \"身份类型\":{\"女巫\":[2]}, \n    \"动作类型\":{\"自杀\":[5]}\n}"
+    },
+    "Day 3 Daytime - [6] is speaking (round 2)": {
+      "duration": 146.6,
+      "rms": 0.138967,
+      "text": "那我给我买了，反正投不了票。我嗯eris我不跟你吹牛逼，第一天他妈三五九三张狼人牌都已经给你摆了。台面上第一天就我一个人上匪票，知道为什么上匪票吗？这个七的视角不正啊，但是没有影响，三号牌出局，对不对？你都懵了啊啊，你都懵了，就好好盘一盘了，逻辑都给你揉碎了，甩在脸上了。我这一把我票一就是想让你一五来票六啊，你去票四干啥啊？二、倒在夜里，二是张女巫牌，四是他的刀口牌啊，小姐姐，对不对？四是不是刀口牌啊，你票四干啥是对你的发言的话呢？我觉得这这一局娱乐性比较强。第一天狼坑我告诉你二出来的时候，我基本上就晓得狼坑三五九了。这个七非要打我这个八非要打，我告告诉你五十张牌。五第一天我告诉你对四的反应就不对。最后报出四十一张刀口牌的时候，我就更笃定这个五是个狼了，对吧？昨天昨天五跳的枪，你盘你今天盘六是个狼药玩家，你的发言就永远在这个场上是抗推位，知不知道为什么是抗推位。我今天这个枪不出来，你这个一号牌就出局了，还在那懵懵懵能明白不能明白不？你认七十个预言家，六就是个真金水。三是一张真查杀。你认九十个预言家，你打不出三六七的六，第一天是票子上七打啊，我嫌自己狼队友三号牌聊的不差吧。张二白起跳女巫是很成功的啊，他极有可能拉到你一号玩家的票。那我还去票我的狼队友这张七七第二天告诉你六金水票这张五第二天二号玩家告诉你定票五的时候，我是个狼七，是个狼六七，都不去票这张五想什么呢？嗯，没事啊，送呃送小苹果赢一把，也当安抚一下，不是也不知道，不叫他安安抚，是该赢好不好？当你打。",
+      "summary": "六号玩家认为七的视角不正，三号牌出局后，他票一号想让一五来票六，不理解为什么要票四。五号牌第一天对四的反应不对，最后报出四是刀口牌时，他就更笃定五是狼了。他认为这一局娱乐性比较强，第一天狼坑三五九了。六金水票五，七六都不去票五，觉得五是狼。",
+      "format": "{\n    \"身份类型\":{\"金水\":[6],\"狼人\":[5]}, \n    \"动作类型\":{\"归票\":[6->5]}\n}"
+    },
+    "Day 4 Daytime - [4] is speaking": {
+      "duration": 29.5,
+      "rms": 0.125798,
+      "text": "你让这个一捋捋啊，就是你认七是预言家，六是金水，你得认二是女巫四四是银水，四是个明好人，你票得着四吗？啊，捋捋捋一捋你信，七是预言家，六是金水，二是女巫，四是刀口四六。",
+      "summary": "你让这个一捋捋啊，就是你认七是预言家，六是金水，你得认二是女巫四四是银水，四是个明好人，你票得着四吗？啊，捋捋捋一捋你信，七是预言家，六是金水，二是女巫，四是刀口四六，",
+      "format": "{\n    \"身份类型\":{\"预言家\":[7],\"金水\":[6],\"女巫\":[2],\"银水\":[4],\"好人\":[4],\"刀口\":[4,6]}, \n    \"动作类型\":{\"归票\":[unknown->4]}\n}"
+    },
+    "Day 4 Daytime - [5] is speaking": {
+      "duration": 169.2,
+      "rms": 0.086271,
+      "text": "就在你一眼里是两个好人，你票六啊，好的人。行，那让我再消不下逻辑，他认为七是狼人，好吧，他是狼人，我七是狼人，七跟六干的精神六就是狼人哦，我也不是狼，我就枪，我还得是枪，我管你们聊啥呢？我反正我反正我是想你们不打我，那那跟我没关系，你看七活着二活着是啊，你们要认一是狼一走了，你也活不了，好吧，一走你也活不了，很好玩的，但是我救二救人，二是女巫啊。因为我七第一天保了我呀，他告诉我五是好人，六是狼，我就有生存空间啊，他告诉你了，我就有生存空间，他要不告诉你的话，我就没事，我就没一点生存空间。这个枪这个枪你知不道是谁告诉我的，你说那是甩狗，谁告诉我的，他都说了，五这个位置是枪五，这个位置是枪，七是个狼，六是个狼，这个三是个狼，知道吧？三是来垫的，你知不知道三六七是三张狼那个三是来垫，这个九的，明白不？这个九是个预言家，我是个金水，为什么没去动？你是当三告诉一是银水的时候，我都没想着动你。四，因为我认二是个女巫，这个三是来垫这个九的，我都没去聊你。我是在银水面前拍枪的吧，你后坐那么多张牌，我去拍个枪，你们但凡任何人跳一张枪，当我的狼坑位进入到你的视角的时候，我拍枪我就一定得死，知道吧？我拍枪我就一定得死。我第一轮票型是票的七，这个七得是个狼人七的。第一件事情告诉你，五是钢铁白牌，你要五跟六去拉pk，他就一定会票死。六外置位就一定会有一个预言家去起跳，一定不是五六的局，他是保谁啊？六七在保五啊七在保五五票，他的五是个枪，他是不是一定在保六六是个狼人，是不是三六七是三个狼人，我还是认二是个女巫，四是个银。",
+      "summary": "五号玩家认为七是狼，六也是狼。他是枪牌，管你们聊啥，只想活下去。他救了女巫二号，七号告诉他五是好人，六是狼。他拍了枪，但不想死。五号认为三六七是三个狼，他认为二是女巫，四是银。五号建议票六，保五。",
+      "format": "{\n    \"身份类型\":{\"狼人\":[6,7],\"枪\":[5],\"女巫\":[2],\"好人\":[5],\"银水\":[4]}, \n    \"动作类型\":{\"归票\":[5->6],\"保护\":[5->5],\"拍枪\":[unknown->6]}\n}"
+    },
+    "Day 4 Daytime - [6] is speaking": {
+      "duration": 24.8,
+      "rms": 0.064975,
+      "text": "对，明白不一号好，三六三六七是吧？三六七那三号牌跳个礼物，把把这个自己认识了以后，把九也认识了。一弃票有两种坑，一种是三六七，一种是三五。",
+      "summary": "对，明白不一号好，三六三六七是吧？三六七那三号牌跳个礼物，把把这个自己认识了以后，把九也认识了，一弃票有两种坑，一种是三六七，一种是三五，",
+      "format": "{\n    \"身份类型\":{\"好人\":[1],\"可疑\":[3,5,6,7,9]}, \n    \"动作类型\":{\"无结果\": []}\n}"
+    },
+    "Day 4 Daytime - [1] is speaking": {
+      "duration": 152.0,
+      "rms": 0.030836,
+      "text": "九一号玩家你去票啊，嗯这嗯四号牌回来了。呃，首先跟树上还有就是已经二三七八九走了的五张牌道个歉哈，我们啰里八嗦的搞了那么久，昨天晚上就应该继续结束了，是吧？然后这么温暖的一张狼人牌，肯定是宝哥跟mr q啊。mr QQ认认识他就叫他mr q哈呃，狼在四六里面五号牌。如果是狼的话，他昨天晚上他跟我不认识他干嘛不去刀人呢？对吧？然后我想说呃，我我我来上票吧，他们给我锻炼的机会，我来上票吧。我跟你说啊，宝哥因为我在只在五号的脑门上标了个金，因为九号给五号干了个金水，我标了个金。然后这个七号七号是给六，当时我听着七号是是验的，是六金水，说出五吧，我当时就迷糊了，因为我认七的话，六不是金水吗，对吧？那这么说五是狼如我认七六，他是查的六是金水吧，因为六脑门上没标东西啊，我忘了，那我认二女巫，那肯定四是银水啊，我其实很想摆烂，我不想投的。但是我觉得我要对得起这这这么温暖的一张狼人牌，让我让我就是动脑筋。而且他六他刚才发言，他也不说什么了，这个五号牌噼里啪啦，说了这么多五号牌，如果五号牌如果是狼，昨天晚上刀完人不就完事儿了吗？干嘛还要搞这个啊？我觉得我再盘的话都要被树上的人骂死了。我过了吧，我去投吧，输了的话，没事，我再去复盘吧，好吧。",
+      "summary": "九号去投票，五号可能是狼，为了锻炼自己，我来上票。五号被金水，七号验六号金水，认为五号是狼。我认二号女巫，四号是银水。如果五号是狼，昨晚就刀完人了。我投票，输了再复盘。",
+      "format": "{\n    \"身份类型\":{\"狼人\":[5],\"金水\":[6],\"女巫\":[2],\"银水\":[4]}, \n    \"动作类型\":{\"归票\":[1->9],\"查好\":[7->6],\"投票\":[1->unknown]}\n}"
+    },
+    "Day 4 Daytime - [5] is speaking (round 2)": {
+      "duration": 2.7,
+      "rms": 0.002357,
+      "text": "",
+      "summary": "",
+      "format": ""
+    },
+    "Day 4 Daytime - [6] is speaking (round 2)": {
+      "duration": 15.5,
+      "rms": 0.109865,
+      "text": "我不会嗯嗯二宝哥，那你拿一投二宝哥还是不放心这个一我问他，我拿狼没没？",
+      "summary": "我不会嗯嗯二宝哥，那你拿一投二宝哥还是不放心这个一我问他，我拿狼没没？",
+      "format": "{\n    \"身份类型\":{}, \n    \"动作类型\":{\"无结果\":[]}\n}"
+    }
+  },
+  "video": {
+    "time": 4220.9,
+    "fps": 10.0,
+    "width": 720,
+    "height": 1280
+  },
+  "origin": "20231022142759_1688.json"
+}
