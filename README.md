@@ -30,4 +30,4 @@ python3 check_data_en.py
 ## Output
 Werewolf game simulation video
 
-<video src="demo/demo_video.mp4"></video>
+![demo](demo/demo_gif.gif)
