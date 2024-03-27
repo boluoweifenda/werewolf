@@ -655,6 +655,7 @@ class WereWolf9:
 
         self.logger.info(
             '=======================================================================================================')
+
         self.logger.info('Night %d:' % (self.time // 2 + 1))
 
         # 计算睁眼顺序
@@ -820,12 +821,15 @@ class WereWolf9:
             task_name = self.task_id_to_name[task_id]
             if 'speeches' in task_name:
                 task_name += ', speak order: ' + ','.join(str(id) for id in self.speak_order)
-            self.logger.info('=== Task: %s ===' % task_name)
+            self.logger.info(
+                "\033[1m\033[31m" + f"=== Task: {task_name} ===" + "\033[0m")
         else:
             task_ids = list(self.round_task.keys())
             if len(task_ids) > 0:
                 task_id = self.get_task_id()
-                self.logger.info('=== Task: %s ===' % self.task_id_to_name[task_id])
+                self.logger.info(
+                    "\033[1m\033[31m" + f"=== Task: {self.task_id_to_name[task_id]} ===" + "\033[0m")
+        time.sleep(0.5)
         return
 
     def get_task_id(self):

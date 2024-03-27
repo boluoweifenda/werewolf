@@ -26,3 +26,8 @@ python3 processor/check_data_en.py --path_processed data/werewolf_data
 cd processor
 python3 check_data_en.py
 ```
+
+## Output
+Werewolf game simulation video
+
+<video src="demo/demo_video.mp4"></video>
