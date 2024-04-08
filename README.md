@@ -30,4 +30,14 @@ python3 check_data_en.py
 ## Output
 Werewolf game simulation video
 
+## TODO
+1. Preprocessing of the dataset
+2. Training script of the werewolf agent
+3. Translation from Chinese to English of speeches in the dataset
+
+
+
+
+## Example
+
 ![demo](demo/demo_gif.gif)
